@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact name="chat">
+    <output-path>$PROJECT_DIR$/out/artifacts/chat</output-path>
+    <root id="root">
+      <element id="file-copy" path="$PROJECT_DIR$/src/start.bat" />
+      <element id="artifact" artifact-name="chat:jar" />
+    </root>
+  </artifact>
+</component>
