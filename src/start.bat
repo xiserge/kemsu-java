@@ -1,1 +1,1 @@
-java -jar chat.jar
+start javaw -jar chat.jar
